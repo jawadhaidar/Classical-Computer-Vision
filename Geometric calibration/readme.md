@@ -4,4 +4,4 @@
 
 # Zhang Method
 
-In this method, there is no need to build a 3D structure. Zhang supposed the usage of checkered pattern on a 2D plane. In this case, the Z of the world coordinate system is zero. 
+In this method, there is no need to build a 3D structure. Zhang proposed the usage of checkered pattern on a 2D plane. In this case, the Z of the world coordinate system is zero. 
