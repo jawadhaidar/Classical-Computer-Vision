@@ -1,1 +1,2 @@
-
+- Provided is the codes for canny edge detection and corner detection using heras methods. 
+- Matlab already has built in functions to perform these tasks, but here is a detailed code without using built in functions for the sake of understanding teh theory 
